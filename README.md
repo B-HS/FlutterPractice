@@ -1,16 +1,27 @@
-# bbus_flutter
+# 플러터를 연습해보자 
+- RN으로 만들어진 버스앱을 그대로 옮기는게 목표
+- 학습 기간은 일 끝나고 하는 것이니 약 2주 ~ 4주
+- 재미있게 해보자
+<br>
+<br>
+<br>
+# 학습해볼 필요할 기능
+- 타이틀을 동적으로 변경하는 방법(STATE)
+- 비동기 통신
+- 원할한 코딩을위해 자료형 드릴
+- 컴포넌트 작성
+- 스타일링
+- 기타 기능들(위치, 다이나믹아일랜드, 푸시)
+<br>
+<br>
+<br>
+# 학습방법
+- 갓 구글
+- 갓 스택오버플로우
+- 좀 구린 공식 플러터문서
+- 하다가 도저히 불가능하다싶으면 거룩하고성스러우며완벽한 유튜브 참고
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
